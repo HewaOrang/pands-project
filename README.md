@@ -8,7 +8,7 @@ The repository contains the follwoing:
 -   analysis.py : This only includes the code part of the project requiremnts list in the notebook.
 
 # Iris dataset
-The iris dataset is a classic widely used dataset in machine learning. It was introduce by Ronald A.Fisher in 1936. It is frequently used for classification tasks. Each row in the dataset represents one flower with its four measurements and its corresponding label.
+The iris dataset is a classic widely used dataset in machine learning. It was introduced by Ronald A.Fisher in 1936. It is frequently used for classification tasks. Each row in the dataset represents one flower with its four measurements and its corresponding label.
 
 # key features of the dataset:
 -   150 Samples
