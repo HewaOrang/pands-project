@@ -1,10 +1,13 @@
-# pands-project
+# Pands-Project
+by: Hewa Orang
 
-This repository is to fulfil the requirement of the inroduction to programming and scripting module.
+This repository is to fulfil the requirement of the *Inroduction to Programming and Scripting* module part of the HDip in Data Analytics.
+
+# Contents
 
 The repository contains the follwoing:
 
--   The project.ipynb: This notebook prsents the project rquirements. 
+-   The project.ipynb: This notebook presents the project rquirements. 
 -   analysis.py : This only includes the code part of the project requiremnts list in the notebook.
 
 # Iris dataset
@@ -24,10 +27,10 @@ The iris dataset is a classic widely used dataset in machine learning. It was in
 
 # References
 
-https://archive.ics.uci.edu/dataset/53/iris
-
-https://en.wikipedia.org/wiki/Iris_flower_data_set
-
+- [Real Python](https://realpython.com/)
+- [W3Schools](https://www.w3schools.com/)
+- [UCIrvine](https://archive.ics.uci.edu/dataset/53/iris)
+- [wiki](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 
 
 
