@@ -18,11 +18,12 @@ df
 # Load the dataset.
 data = sk1.datasets.load_iris()
 
-summary = df.describe(include='all') # 
+# https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html
+summary = df.describe(include='all') # Describe computes the summary statistics for each column
 
-with open("iris_summary.txt", "w") as f:
-    f.write("Summary of Iris Dataset Variables\n\n")
-    f.write(summary.to_string())
+with open("iris_summary.txt", "w") as f: # Opens a file names "iris_summary.txt" in write mode.
+    f.write("Summary of Iris Dataset Variables\n\n") # Wrtites a header to the file.
+    f.write(summary.to_string()) # writes the string representation of the summary to the file.
 
 # Plotting.
 import matplotlib.pyplot as plt # matplotlib is a plotting library
