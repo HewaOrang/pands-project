@@ -2,10 +2,6 @@
 # This program lists the codes used in the project.ipynb notebook as requested by Andrew Beatty.
 # Author: Hewa Orang
 
-# analysis.py
-# This program lists the codes used in the project.ipynb notebook as requested by Andrew Beatty.
-# Author: Hewa Orang
-
 # Task 1: Loading the dataset
 # Data frames
 
