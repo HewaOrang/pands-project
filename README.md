@@ -21,8 +21,9 @@ The repository contains the follwoing:
         - Petal length vs. Petal width
     - **Task 5: Box Plots**: Generate box plots for petal lengths grouped by class.
     - **Task 6: Compute Correlations**: Calculate and visualize the correlation coefficients between features using a heatmap.
+    - **Task 7: Too Many Features**: Pair plots to visualize relationships across all features. 
 
-- **`analysis.py`**: This file contains the code extracted from the notebook.
+- **`analysis.py`**: This file contains the code extracted from the project notebook.
 
 # Iris dataset
 The iris dataset is a classic widely used dataset in machine learning. It was introduced by Ronald A.Fisher in 1936. It is frequently used for classification tasks. Each row in the dataset represents one flower with its four measurements and its corresponding label.
